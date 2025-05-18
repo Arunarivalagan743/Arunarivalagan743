@@ -54,22 +54,12 @@
 
 ---
 
-### 🚀 Projects
 
-#### 🎬 [TicketPark](https://github.com/Arunarivalagan743/Cinematic-popcorn-Theatre-Experience)
-> A MERN Stack project that integrates movie ticket booking with parking reservations.  
-> Built with **React, TailwindCSS, Redux, Node.js, Express, MongoDB, Firebase, JWT**
-
-#### 📚 [BooksMania](https://github.com/Arunarivalagan743/BooksMania)
-> A centralized book management and reading tracker system.
-
----
 
 ### 🏆 Achievements
 
 - 🥇 TruthTell Hackathon – **Top 12**, HackerEarth – *April 2025*  
-- ⚽ Football – *Zonal Level Winner*  
-- 🎨 Drawing – *Skilled in artistic techniques*
+
 
 ---
 
