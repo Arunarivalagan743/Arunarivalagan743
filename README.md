@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Arun_774-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="mailto:arunariavalagan23cse@srishakthi.ac.in">
-    <img src="https://img.shields.io/badge/Email-arunariavalagan23cse@srishakthi.ac.in-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-arunarivalagan23cse@srishakthi.ac.in-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
