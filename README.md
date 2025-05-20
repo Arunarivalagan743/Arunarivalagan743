@@ -50,14 +50,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunarivalagan743&show_icons=true&theme=react&hide_border=true" width="47%" />
- 
-</p>
 
 ---
 
