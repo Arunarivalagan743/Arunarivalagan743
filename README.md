@@ -21,12 +21,9 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 Currently pursuing **B.E in Computer Science and Engineering**  
-- 📍 From **Tirupur, Tamil Nadu, India**  
-- 🔭 I’m working on a full-stack web app **TicketPark** – A cinema + parking booking system  
-- 📘 Certified in **The Complete Web Development Bootcamp** (Udemy) and **Java (NPTEL)**  
-- 💡 Areas of Interest: **Web Designing, Networking, Data Structures**
 
----
+
+
 
 ### 🛠️ Tech Stack
 
@@ -53,32 +50,17 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
-
-
-
-### 🏆 Achievements
-
-- 🥇 TruthTell Hackathon – **Top 12**, HackerEarth – *April 2025*  
-
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arunarivalagan743&show_icons=true&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunarivalagan743&theme=react&hide_border=true" width="47%" />
+ 
 </p>
 
 ---
 
-### 📫 Contact
-
-- **Email**: arunariavalagan23cse@srishakthi.ac.in  
-- **Portfolio**: [404arunfound.me](https://www.404arunfound.me)  
-- **LinkedIn**: [linkedin.com/in/arun-a-25b6a5289](https://www.linkedin.com/in/arun-a-25b6a5289)
-
----
 
 > _“Turning ideas into reality with clean code and creativity.”_
 
