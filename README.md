@@ -16,6 +16,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arunarivalagan743&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+
