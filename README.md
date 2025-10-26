@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun A</h1>
-<h3 align="center">MERN Stack Developer | B.E. CSE Student</h3>
+<h3 align="center">B.E. CSE Student</h3>
 
 <p align="center">
   <a href="https://www.404arunfound.me" target="_blank">
