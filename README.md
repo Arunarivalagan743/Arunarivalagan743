@@ -2,7 +2,7 @@
 <h3 align="center">B.E. CSE Student</h3>
 
 <p align="center">
-  <a href="https://www.404arunfound.me" target="_blank">
+  <a href="https://arunoff774.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/arun-a-25b6a5289" target="_blank">
